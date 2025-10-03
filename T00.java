@@ -1,3 +1,6 @@
+// 12S25013 - KORNELIUS NABABAN
+// 12S25010 - AGNES SIBURIAN 
+
 import java.util.*;
 import java.lang.Math;
 
